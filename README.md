@@ -1,3 +1,4 @@
+# Guide to Using Google Sheets for Basic Web Scraping
 
 * [What is IMPORTXML](#WhatisIMPORTXML)
 * [How to extract data from a website to Google Sheets](#HowtoextractdatafromawebsitetoGoogleSheets)  
